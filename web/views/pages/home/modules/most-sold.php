@@ -7,7 +7,7 @@
             </button>
             <button class="btn btn-default">
                 <i class="fas fa-list fa-xs pe-1"></i>
-                <span class="col-xs-0 float-end small mt-1">LIST</span>
+                <span class="col-xs-0 float-end small mt-1">LISTA</span>
             </button>
         </div>
     </div>
